@@ -23,6 +23,4 @@ const App = () => {
   )
 }
 
-// About, Contact, Experience, Feedbacks,
-// Tech, Works, StarsCanves
 export default App
