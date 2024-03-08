@@ -12,13 +12,21 @@ const Hero = () => {
           <div className="w-5 h-5 rounded-full bg-[#915eff]" />
           <div className="w-1 sm:h-80 h-40 violet-gradient" />
         </div>
-        <div className="">
+        <div className="flex flex-col">
           <h1 className={`${styles.heroHeadText}`}>
             Hi, I'm <span className="text-[#915eff]">Raja</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I Develope user <br className="sm:block hidden" /> interfaces and
-            web applications.
+            {/* I Develope user <br className="sm:block hidden" /> interfaces and
+            web applications. */}
+            I Develope user interfaces with HTML, CSS, and JavaScript 
+            Back-end: Managing server-side logic and
+            databases with languages like Python or Node.js.
+
+            {/* I Develope user interfaces with HTML, CSS, and JavaScript for a
+            seamless user experience. Back-end: Managing server-side logic and
+            databases with languages like Python or Node.js for efficient data
+            processing. */}
           </p>
         </div>
       </div>
