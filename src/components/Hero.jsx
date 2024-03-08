@@ -19,10 +19,9 @@ const Hero = () => {
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             {/* I Develope user <br className="sm:block hidden" /> interfaces and
             web applications. */}
-            I Develope user interfaces with HTML, CSS, and JavaScript 
-            Back-end: Managing server-side logic and
-            databases with languages like Python or Node.js.
-
+            I Develope user interfaces with HTML, CSS, and JavaScript Back-end:
+            Managing server-side logic and databases with languages like .Net
+            Core or Node.js.
             {/* I Develope user interfaces with HTML, CSS, and JavaScript for a
             seamless user experience. Back-end: Managing server-side logic and
             databases with languages like Python or Node.js for efficient data
