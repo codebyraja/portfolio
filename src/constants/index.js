@@ -24,6 +24,7 @@ import {
   tripguide,
   threejs,
   excellent_softwares,
+  Point_Of_Sale,
 } from "../assets";
 
 export const navLinks = [
@@ -221,7 +222,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: Point_Of_Sale,
     source_code_link: "https://github.com/",
   },
   {

@@ -26,12 +26,12 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import excellent_softwares from "./company/excellent_softwares.png"
+import excellent_softwares from "./company/excellent_softwares.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-
+import Point_Of_Sale from "./pos.png";
 export {
   logo,
   backend,
@@ -61,5 +61,6 @@ export {
   carrent,
   jobit,
   tripguide,
-  excellent_softwares
+  excellent_softwares,
+  Point_Of_Sale,
 };
