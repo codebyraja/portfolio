@@ -14,14 +14,17 @@ const Hero = () => {
         </div>
         <div className="flex flex-col">
           <h1 className={`${styles.heroHeadText}`}>
-            Hi, I'm <span className="text-[#915eff]">Raja</span>
+            👋Hi, I'm <span className="text-[#915eff]">Raja</span>
           </h1>
-          <p className={`${styles.heroSubText} mt-2 text-white-100`}>
+          <p className={`${styles.heroSubText} mt-2 text-white-100 !text-sm`}>
             {/* I Develope user <br className="sm:block hidden" /> interfaces and
             web applications. */}
-            I Develope user interfaces with HTML, CSS, and JavaScript Back-end:
-            Managing server-side logic and databases with languages like .Net
-            Core or Node.js.
+            a Full Stack Developer passionate about building modern and
+            efficient web applications. I specialize in creating responsive
+            front-end interfaces with React.js, and developing secure,
+            high-performance back-end APIs using ASP.NET Core Web API. I also
+            work with SQL Server to design and manage relational databases for
+            scalable solutions.
             {/* I Develope user interfaces with HTML, CSS, and JavaScript for a
             seamless user experience. Back-end: Managing server-side logic and
             databases with languages like Python or Node.js for efficient data
