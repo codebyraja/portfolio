@@ -32,6 +32,9 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import Point_Of_Sale from "./pos.png";
+import vfs from "./vfs.png";
+import llc from "./llc.png";
+
 export {
   logo,
   backend,
@@ -63,4 +66,6 @@ export {
   tripguide,
   excellent_softwares,
   Point_Of_Sale,
+  vfs,
+  llc,
 };
